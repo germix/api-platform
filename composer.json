@@ -1,0 +1,13 @@
+{
+    "name": "germix/api-platform",
+    "type": "library",
+    "description": "API Platform",
+    "license": "GPL-3.0-or-later",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Germix\\Api\\": "src"
+        }
+    }
+}
